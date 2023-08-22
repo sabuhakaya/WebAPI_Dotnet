@@ -1452,11 +1452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aday/WEBAPI/apiproject/MyWebApi/MyWebApi.csproj",
+      "projectUniqueName": "/home/aday/Desktop/MyWebApi/MyWebApi.csproj",
       "projectName": "MyWebApi",
-      "projectPath": "/home/aday/WEBAPI/apiproject/MyWebApi/MyWebApi.csproj",
+      "projectPath": "/home/aday/Desktop/MyWebApi/MyWebApi.csproj",
       "packagesPath": "/home/aday/.nuget/packages/",
-      "outputPath": "/home/aday/WEBAPI/apiproject/MyWebApi/obj/",
+      "outputPath": "/home/aday/Desktop/MyWebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aday/.nuget/NuGet/NuGet.Config"

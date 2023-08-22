@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "20brDt51M3HFY0h1JP0Cr7+UuBI5vHS3/2xwGeKTJt305gAMokjJiqAqCHg6MiA2Kg2oeA4DuloQhJbQU9XrhA==",
+  "dgSpecHash": "895qNzgQijPkB6yj/7PZS6tQplobsa/g4HWULhtZJfOWRAnZw1SerFZ38Pkj0FpZ8gswJGYYZTIzRt1a86mYgg==",
   "success": true,
-  "projectFilePath": "/home/aday/WEBAPI/apiproject/MyWebApi/MyWebApi.csproj",
+  "projectFilePath": "/home/aday/Desktop/MyWebApi/MyWebApi.csproj",
   "expectedPackageFiles": [
     "/home/aday/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/aday/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

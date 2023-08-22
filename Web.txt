@@ -1,0 +1,22 @@
+ 
+https://www.udemy.com/user/neil-cummings-2/ 
+bu uygulamalar UI tarafı angular veya react ile yazılmış.
+ 
+Öncesinde Gençay'dan asp.net core mvc izleyebilirsin, UI tarafı Razor -html'e C# yazabildiğin bir engine-
+Linq, Entity Framework
+ 
+şu adamın da Javascript kursu iyi. 68 saat falan ama sağlam. https://www.udemy.com/course/the-complete-javascript-course/ 
+https://www.pluralsight.com burdaki C# path, ASP.NET Core Path'ler de iyi. 
+ 
+Türkçe yazayım birkaç isim youtube kanalı vs bakarsın hangisi sararsa :)
+Engin Demiroğ
+https://www.youtube.com/@TechBuddyTR 
+ 
+Akın Kaldıroğlu Java'cı ama clean code, OOP vs felsefesini iyi anlatıyor diyorlar. Burak Bey de tavsyie eder
+Sen yine de öncelikle Burak Bey'in tavsiyelerine göre ilerle
+şöyle bir site de var. Yardımcı olur mu bilmiyorm ama daha önce karşılaşmadıysan bi incelersin https://roadmap.sh/ 
+ 
+Hüseyin Babal diye birisi var. Bu da güzel şeyler paylaşıyor. Clean Code kitabına bakarsan bu adamın bi playlisti var. Okuyup açıklıyor. 
+https://www.youtube.com/watch?v=6WyasLd7-0Q&list=PL-Z0o2McR6b6oIkds41EOggQYhXKPAGw3 
+Şimdilik böyle :)
+

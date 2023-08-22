@@ -24,6 +24,7 @@ namespace MyWebApi.Models
         // Navigation property for many-to-many relationship
         public ICollection<UserMeeting> UserMeetings { get; set; }
     }
+    
 
     public class User
     {
@@ -36,6 +37,11 @@ namespace MyWebApi.Models
         [Required]
         [EmailAddress]
         public string Email { get; set; }
+        // Foreign key to reference the owner User
+
+        [Required]
+        public int OwnerId { get; set; }
+        public User Owner { get; set; }
 
         // Navigation property for many-to-many relationship
         public ICollection<UserMeeting> UserMeetings { get; set; }
